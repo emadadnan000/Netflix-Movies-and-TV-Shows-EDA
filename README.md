@@ -65,7 +65,7 @@ Files used:
 **Clone the Repository**  
 
    ```bash
-   git clone https://github.com/emadadnan000/Air-Quality-Insights-EDA.git
+   git clone https://github.com/emadadnan000/Netflix-Movies-and-TV-Shows-EDA.git
    cd Air-Quality-Insights-EDA
    ```
 
